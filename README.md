@@ -64,7 +64,7 @@ print(dev.say_hi())
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| **[Bot Consulta Restituição IRPF](https://github.com/4lyt0n01-cyber/bot-restituicao-irpf)** | Automação para consultar restituição IRPF na Receita Federal com Playwright + ttkbootstrap | `Python` `Playwright` `ttkbootstrap` `pandas` |
+| **[Bot Consulta IRPF](https://github.com/4lyt0n01-cyber/bot-restituicao-irpf)** | Automação para consultar IRPF com Playwright + ttkbootstrap | `Python` `Playwright` `ttkbootstrap` `pandas` |
 | **[Mais projetos em breve...](https://github.com/4lyt0n01-cyber?tab=repositories)** | Sempre construindo coisas novas | `...` |
 
 ---
