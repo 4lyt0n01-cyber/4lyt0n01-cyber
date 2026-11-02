@@ -16,26 +16,26 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### \u{1F468}\u{200D}\u{1F4BB} Sobre mim
 
-```python
+`python
 class Developer:
     def __init__(self):
         self.name = "4lyt0n01-cyber"
         self.role = "Full Stack Developer"
-        self.focus = ["Automação", "Segurança", "Web Scraping", "APIs"]
+        self.focus = ["Automa\u00E7\u00E3o", "Seguran\u00E7a", "Web Scraping", "APIs"]
         self.currently_learning = ["Rust", "Kubernetes", "eBPF"]
         
     def say_hi(self):
-        return "Transformando café em código ☕🚀"
+        return "Transformando caf\u00E9 em c\u00F3digo \u{2615}\u{1F680}"
 
 dev = Developer()
 print(dev.say_hi())
-```
+`
 
 ---
 
-### 🛠️ Tech Stack
+### \u{1F6E0}\u{FE0F} Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,docker,git,linux,vscode,postgres,mongodb,redis,nginx,githubactions" alt="Tech Stack" />
@@ -47,11 +47,11 @@ print(dev.say_hi())
 | **Containers & Deploy** | Docker, Docker Compose, GitHub Actions |
 | **Banco de Dados** | PostgreSQL, MongoDB, Redis |
 | **Ferramentas** | Git, VS Code, Linux, Nginx |
-| **Foco** | Automação (Playwright/Selenium), Web Scraping, APIs REST, Segurança |
+| **Foco** | Automa\u00E7\u00E3o (Playwright/Selenium), Web Scraping, APIs REST, Seguran\u00E7a |
 
 ---
 
-### 📊 GitHub Analytics
+### \u{1F4CA} GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4lyt0n01-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Stats" height="180" />
@@ -64,28 +64,28 @@ print(dev.say_hi())
 
 ---
 
-### 🚀 Projetos em Destaque
+### \u{1F680} Projetos em Destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | Descri\u00E7\u00E3o | Stack |
 |---------|-----------|-------|
-| **[Bot Consulta Restituição IRPF](https://github.com/4lyt0n01-cyber/bot-restituicao-irpf)** | Automação para consultar restituição IRPF na Receita Federal com Playwright + ttkbootstrap | `Python` `Playwright` `ttkbootstrap` `pandas` |
-| **[Mais projetos em breve...](https://github.com/4lyt0n01-cyber?tab=repositories)** | Sempre construindo coisas novas | `...` |
+| **[Bot Consulta Restitui\u00E7\u00E3o IRPF](https://github.com/4lyt0n01-cyber/bot-restituicao-irpf)** | Automa\u00E7\u00E3o para consultar restitui\u00E7\u00E3o IRPF na Receita Federal com Playwright + ttkbootstrap | Python Playwright 	tkbootstrap pandas |
+| **[Mais projetos em breve...](https://github.com/4lyt0n01-cyber?tab=repositories)** | Sempre construindo coisas novas | ... |
 
 ---
 
-### 📈 Atividade Recente
+### \u{1F4C8} Atividade Recente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-### 🎯 Objetivos 2024
+### \u{1F3AF} Objetivos 2024
 
-- [ ] Contribuir para projetos open source de segurança
-- [ ] Publicar ferramentas de automação no PyPI
+- [ ] Contribuir para projetos open source de seguran\u00E7a
+- [ ] Publicar ferramentas de automa\u00E7\u00E3o no PyPI
 - [ ] Aprender Rust para ferramentas de performance
-- [ ] Escrever artigos técnicos sobre web scraping ético
+- [ ] Escrever artigos t\u00E9cnicos sobre web scraping \u00E9tico
 
 ---
 
@@ -94,5 +94,5 @@ print(dev.say_hi())
 </p>
 
 <p align="center">
-  <i>💡 "Código limpo hoje, manutenção fácil amanhã"</i>
+  <i>\u{1F4A1} "C\u00F3digo limpo hoje, manuten\u00E7\u00E3o f\u00E1cil amanh\u00E3"</i>
 </p>
