@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contrib-snake.vercel.app/?username=4lyt0n01-cyber&theme=tokyonight&hide_border=true" alt="Snake Animation" />
+  <img src="https://4lyt0n01-cyber.github.io/4lyt0n01-cyber/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <br>
+  <img src="https://4lyt0n01-cyber.github.io/4lyt0n01-cyber/github-contribution-grid-snake-dark.svg" alt="Snake Animation (Dark)" />
 </p>
 
 ---
