@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 💻 Sobre mim
 
 ```python
 class Developer:
@@ -35,7 +35,7 @@ print(dev.say_hi())
 
 ---
 
-### 🛠️ Tech Stack
+### 🔧 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,docker,git,linux,vscode,postgres,mongodb,redis,nginx,githubactions" alt="Tech Stack" />
