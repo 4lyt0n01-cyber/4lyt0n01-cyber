@@ -30,4 +30,5 @@ jobs:
           build_dir: dist
           keep_history: true
           commit_message: "chore: update snake animation [skip ci]"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
