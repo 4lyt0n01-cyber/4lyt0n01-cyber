@@ -12,26 +12,17 @@
 
 ---
 
-### 💻 Sobre mim
+### :computer: Sobre mim
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "4lyt0n01-cyber"
-        self.role = "Full Stack Developer"
-        self.focus = ["Automação", "Segurança", "Web Scraping", "APIs"]
-        self.currently_learning = ["Rust", "Kubernetes", "eBPF"]
-        
-    def say_hi(self):
-        return "Transformando café em código ☕🚀"
+**Desenvolvedor Full Stack** focado em Automação, Segurança, Web Scraping e APIs.
 
-dev = Developer()
-print(dev.say_hi())
-```
+- 🐍 **Python** | 🌐 **JavaScript/TypeScript** | 🐳 **Docker**
+- Atualmente aprendendo: **Rust**, **Kubernetes**, **eBPF**
+- "Transformando café em código ☕🚀"
 
 ---
 
-### 🔧 Tech Stack
+### :wrench: Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,docker,git,linux,vscode,postgres,mongodb,redis,nginx,githubactions" alt="Tech Stack" />
@@ -47,7 +38,7 @@ print(dev.say_hi())
 
 ---
 
-### 📊 GitHub Analytics
+### :bar_chart: GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4lyt0n01-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Stats" height="180" />
@@ -60,7 +51,7 @@ print(dev.say_hi())
 
 ---
 
-### 🚀 Projetos em Destaque
+### :rocket: Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
@@ -69,14 +60,14 @@ print(dev.say_hi())
 
 ---
 
-### 📈 Atividade Recente
+### :chart_with_upwards_trend: Atividade Recente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-### 🎯 Objetivos 2026
+### :dart: Objetivos 2026
 
 - [ ] Contribuir para projetos open source de segurança
 - [ ] Publicar ferramentas de automação no PyPI
