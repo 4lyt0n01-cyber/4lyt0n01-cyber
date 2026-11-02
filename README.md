@@ -16,7 +16,7 @@
 
 ---
 
-### :computer: Sobre mim
+### 💻 Sobre mim
 
 ```python
 class Developer:
@@ -35,7 +35,7 @@ print(dev.say_hi())
 
 ---
 
-### :wrench: Tech Stack
+### 🔧 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,docker,git,linux,vscode,postgres,mongodb,redis,nginx,githubactions" alt="Tech Stack" />
@@ -51,7 +51,7 @@ print(dev.say_hi())
 
 ---
 
-### :bar_chart: GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4lyt0n01-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Stats" height="180" />
@@ -64,7 +64,7 @@ print(dev.say_hi())
 
 ---
 
-### :rocket: Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
@@ -73,14 +73,14 @@ print(dev.say_hi())
 
 ---
 
-### :chart_with_upwards_trend: Atividade Recente
+### 📈 Atividade Recente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-### :dart: Objetivos 2024
+### 🎯 Objetivos 2024
 
 - [ ] Contribuir para projetos open source de segurança
 - [ ] Publicar ferramentas de automação no PyPI
@@ -94,5 +94,5 @@ print(dev.say_hi())
 </p>
 
 <p align="center">
-  <i>:bulb: "Código limpo hoje, manutenção fácil amanhã"</i>
+  <i>💡 "Código limpo hoje, manutenção fácil amanhã"</i>
 </p>
