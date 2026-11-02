@@ -10,10 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lyt0n01-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-contrib-snake.vercel.app/?username=4lyt0n01-cyber&theme=tokyonight&hide_border=true" alt="Snake Animation" />
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mim
