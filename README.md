@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+4lyt0n01-cyber+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Automa%C3%A7%C3%A3o+%26+Seguran%C3%A7a+%F0%9F%94%90;Python+%7C+TypeScript+%7C+Docker" alt="Typing SVG" />
 </p>
 
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre mim
 
-```python
+`python
 class Developer:
     def __init__(self):
         self.name = "4lyt0n01-cyber"
@@ -31,7 +31,7 @@ class Developer:
 
 dev = Developer()
 print(dev.say_hi())
-```
+`
 
 ---
 
@@ -68,8 +68,8 @@ print(dev.say_hi())
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| **[Bot Consulta Restituição IRPF](https://github.com/4lyt0n01-cyber/bot-restituicao-irpf)** | Automação para consultar restituição IRPF na Receita Federal com Playwright + ttkbootstrap | `Python` `Playwright` `ttkbootstrap` `pandas` |
-| **[Mais projetos em breve...](https://github.com/4lyt0n01-cyber?tab=repositories)** | Sempre construindo coisas novas | `...` |
+| **[Bot Consulta Restituição IRPF](https://github.com/4lyt0n01-cyber/bot-restituicao-irpf)** | Automação para consultar restituição IRPF na Receita Federal com Playwright + ttkbootstrap | Python Playwright 	tkbootstrap pandas |
+| **[Mais projetos em breve...](https://github.com/4lyt0n01-cyber?tab=repositories)** | Sempre construindo coisas novas | ... |
 
 ---
 
