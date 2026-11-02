@@ -1,4 +1,4 @@
-﻿name: Generate Snake Animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -30,4 +30,4 @@ jobs:
           build_dir: dist
           keep_history: true
           commit_message: "chore: update snake animation [skip ci]"
-          github_token: {{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
