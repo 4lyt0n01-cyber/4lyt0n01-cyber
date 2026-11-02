@@ -14,11 +14,20 @@
 
 ### :computer: Sobre mim
 
-**Desenvolvedor Full Stack** focado em Automação, Segurança, Web Scraping e APIs.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "4lyt0n01-cyber"
+        self.role = "Full Stack Developer"
+        self.focus = ["Automação", "Segurança", "Web Scraping", "APIs"]
+        self.currently_learning = ["Rust", "Kubernetes", "eBPF"]
+        
+    def say_hi(self):
+        return "Transformando café em código ☕🚀"
 
-- 🐍 **Python** | 🌐 **JavaScript/TypeScript** | 🐳 **Docker**
-- Atualmente aprendendo: **Rust**, **Kubernetes**, **eBPF**
-- "Transformando café em código ☕🚀"
+dev = Developer()
+print(dev.say_hi())
+```
 
 ---
 
@@ -55,8 +64,8 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| **[Bot Consulta IRPF](https://github.com/4lyt0n01-cyber/bot-restituicao-irpf)** | Automação para consultar IRPF com Playwright + ttkbootstrap | `Python` `Playwright` `ttkbootstrap` `pandas` |
-| **[Mais projetos em breve...](https://github.com/4lyt0n01-cyber?tab=repositories)** | Sempre construindo coisas novas | `...` |
+| **[Bot Consulta Restituição IRPF](https://github.com/4lyt0n01-cyber/bot-restituicao-irpf)** | Automação para consultar restituição IRPF na Receita Federal com Playwright + ttkbootstrap | Python Playwright 	tkbootstrap pandas |
+| **[Mais projetos em breve...](https://github.com/4lyt0n01-cyber?tab=repositories)** | Sempre construindo coisas novas | ... |
 
 ---
 
