@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+4lyt0n01-cyber+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Automa%C3%A7%C3%A3o+%26+Seguran%C3%A7a+%F0%9F%94%90;Python+%7C+TypeScript+%7C+Docker" alt="Typing SVG" />
 </p>
 
