@@ -76,7 +76,7 @@ print(dev.say_hi())
 
 ---
 
-### 🎯 Objetivos 2024
+### 🎯 Objetivos 2026
 
 - [ ] Contribuir para projetos open source de segurança
 - [ ] Publicar ferramentas de automação no PyPI
