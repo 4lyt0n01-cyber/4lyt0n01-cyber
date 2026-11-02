@@ -10,9 +10,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lyt0n01-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-contrib-snake.vercel.app/?username=4lyt0n01-cyber&theme=tokyonight&hide_border=true" alt="Snake Animation" />
+</p>
+
 ---
 
-### :computer: Sobre mim
+### 👨‍💻 Sobre mim
 
 ```python
 class Developer:
@@ -31,7 +35,7 @@ print(dev.say_hi())
 
 ---
 
-### :wrench: Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,docker,git,linux,vscode,postgres,mongodb,redis,nginx,githubactions" alt="Tech Stack" />
@@ -47,7 +51,7 @@ print(dev.say_hi())
 
 ---
 
-### :bar_chart: GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4lyt0n01-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Stats" height="180" />
@@ -60,23 +64,23 @@ print(dev.say_hi())
 
 ---
 
-### :rocket: Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| **[Bot Consulta Restituição IRPF](https://github.com/4lyt0n01-cyber/bot-restituicao-irpf)** | Automação para consultar restituição IRPF na Receita Federal com Playwright + ttkbootstrap | Python Playwright 	tkbootstrap pandas |
-| **[Mais projetos em breve...](https://github.com/4lyt0n01-cyber?tab=repositories)** | Sempre construindo coisas novas | ... |
+| **[Bot Consulta Restituição IRPF](https://github.com/4lyt0n01-cyber/bot-restituicao-irpf)** | Automação para consultar restituição IRPF na Receita Federal com Playwright + ttkbootstrap | `Python` `Playwright` `ttkbootstrap` `pandas` |
+| **[Mais projetos em breve...](https://github.com/4lyt0n01-cyber?tab=repositories)** | Sempre construindo coisas novas | `...` |
 
 ---
 
-### :chart_with_upwards_trend: Atividade Recente
+### 📈 Atividade Recente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-### :dart: Objetivos 2026
+### 🎯 Objetivos 2024
 
 - [ ] Contribuir para projetos open source de segurança
 - [ ] Publicar ferramentas de automação no PyPI
